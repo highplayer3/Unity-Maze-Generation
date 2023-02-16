@@ -7,8 +7,3 @@ Repository Description:
 - All algorithms is derived from the Base Class——MazeGenerationAlgorithm
 - It works very well,you can see how each algorithm works with the visual process.
 
-Some Algorithm Display:
-
-![image](![Maze-递归回溯](https://user-images.githubusercontent.com/78254344/219355333-8ae16fda-d8a2-46d3-852a-f1443de03d31.gif))
-
-
