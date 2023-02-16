@@ -8,6 +8,6 @@ Repository Description:
 - It works very well,you can see how each algorithm works with the visual process.
 
 Some Algorithm Display:
-https://github.com/highplayer3/Unity-Maze-Generation/blob/master/GIF/Maze-%E9%80%92%E5%BD%92%E5%9B%9E%E6%BA%AF.gif
+![image](https://github.com/highplayer3/Unity-Maze-Generation/blob/master/GIF/Maze-%E9%80%92%E5%BD%92%E5%9B%9E%E6%BA%AF.gif)
 
 
